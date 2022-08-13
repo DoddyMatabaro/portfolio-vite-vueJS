@@ -106,7 +106,7 @@ export const portfolio = {
                         {
                             value: "50+",
                             label: "Client Happpy",
-                        }
+                        },
                         {
                             value: "50+",
                             label: "Client Happpy",
