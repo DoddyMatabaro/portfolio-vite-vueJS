@@ -1,4 +1,4 @@
-import { portfolioPageData } from '~~/static/data';
+import { portfolioPageData } from '../static/data';
 
 export const useCMS =  () =>{
     return portfolioPageData;

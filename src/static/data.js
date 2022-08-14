@@ -1,4 +1,4 @@
-export const portfolio = {
+export const portfolioPageData = {
     name: "Portfolio Doddy Matabaro",
     fields: {
         seo: {title: "DM dev.", description: "A simple portfolio with vue and tailwind" },
@@ -25,7 +25,7 @@ export const portfolio = {
                 },
             }],
             logo: {
-                url: "../assets/logo.png",
+                url: "./src/assets/logo.png",
                 metadata: {
                     alt: "DM dev. logo",
                     id:'logo',
