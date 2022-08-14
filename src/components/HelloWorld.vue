@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-import Header from './Header.vue';
+import Header from './LHeader.vue';
 
 defineProps({
   msg: String
