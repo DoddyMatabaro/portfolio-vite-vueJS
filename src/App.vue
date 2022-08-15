@@ -1,12 +1,8 @@
 <script setup>
-     import HelloWorld from './components/HelloWorld.vue'
+import './style.css';
 </script>
-
 <template>
-
-  <HelloWorld msg="Doddy Matabaro" />
+<NuxtLayout>
+  <NuxtPage />
+</NuxtLayout>
 </template>
-
-<style scoped>
-
-</style>
